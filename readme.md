@@ -10,4 +10,4 @@ this file contianes some specific setting of the applicatio:
 - The third line refers to specific keys that should be displayed .
 - The forth line refers to the color of the text displayed .
 ## PS : 
-the setting file and the application should be in the same folder
+the setting file and the application should be in the same folder , to display the keys in games you shold lunch the app in admin mode 
