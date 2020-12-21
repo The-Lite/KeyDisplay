@@ -9,3 +9,5 @@ this file contianes some specific setting of the applicatio:
 - The second line refers to the time speed to display the inputs in ms 
 - The third line refers to specific keys that should be displayed .
 - The forth line refers to the color of the text displayed .
+## PS : 
+the setting file and the application should be in the same folder
